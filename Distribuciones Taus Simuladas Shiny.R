@@ -23,7 +23,7 @@ ui <- fluidPage(
                    min = 100,
                    max = 1000),
       br(),
-      h5("By Juan David Rincón")
+      h5("By Juan David Rincón, 2022")
     ),
     
     mainPanel(
