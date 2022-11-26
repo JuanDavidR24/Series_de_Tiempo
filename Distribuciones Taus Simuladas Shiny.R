@@ -1,3 +1,5 @@
+## Shiny App Link: https://juandavidrincon.shinyapps.io/Distribuciones_Tau_Simuladas/
+
 #install.packages("shiny")
 library(shiny)
 
